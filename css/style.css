@@ -36,10 +36,10 @@ body{
     text-decoration: none;
 }
 .home-line{
-    width: 42px;
+    width: 44px;
     height: 3px;
     margin-top: 34px;
-    margin-left: 595px;
+    margin-left: 600px;
 }
 .home-line,.blog-post,.line,.line1{
     background-color: blue;
@@ -142,6 +142,7 @@ body{
     padding: 15px 0px;
     letter-spacing: 1px;
     font-size: 18px;
+    line-height: 24px;
 }
 .website-a{
     text-decoration: none;
@@ -245,7 +246,7 @@ body{
     line-height: 50px;
 }
 .offer-section{
-    height: 108vh;
+    height: 123vh;
 }
 .offer-item{
     height: 200px;
@@ -428,7 +429,7 @@ body{
     overflow: auto;
 }
 .item2{
-    width: 41.5%;
+    width: 41%;
     margin-top: 136px;
 }
 .ii{
@@ -493,7 +494,7 @@ body{
     font-size: 15px;
 }
 .news-section{
-    height: 117.8vh;
+    height: 120vh;
 }
 .news-parent{
     background-color: #f8f8f8;
@@ -515,13 +516,13 @@ body{
 }
 .list3 li i{
     font-size: 12px;
-    padding: 20px 0px;
+    padding: 29px 0px 21px;
 }
 .news-item h2{
     font-size: 20px;
 }
 .news-item p{
-    padding: 20px 0px;
+    padding: 22px 0px;
     line-height: 1.5;
 }
 .news-item a{
@@ -559,6 +560,9 @@ body{
 .list4 li a i{
     line-height: 2.3;
     font-size: 22px;
+}
+.list4 li:hover{
+    background-color: #0954ec;
 }
 .footer p{
     font-size: 12px;
